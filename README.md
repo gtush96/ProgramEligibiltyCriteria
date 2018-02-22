@@ -1,4 +1,4 @@
-# ProgramEligibiltyCriteria
+# ProgramEligibiltyCriteria using git
 
 var i=0;
 var ComProgram=['1.)BCA','2.)BBA','3.)BCOM','4.)IHM','5.)FASHION'];
